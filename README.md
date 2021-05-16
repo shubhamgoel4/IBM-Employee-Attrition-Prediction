@@ -1,0 +1,3 @@
+# IBM-Employee-Attrition-Prediction
+
+The data used is a fictional data set created by IBM data scientists. The aim of this project is to uncover the factors that lead to employee attrition and use various classification algorithms to classify employees based on attrition. There are a number of columns in the data which give information about each employee in the IBM dataset. The idea is to visualize this data or do quantitative filtering to take suitable columns which will affect attrition the most. The final task is to run this data through various supervised classification algorithms and train a model that can predict whether an employee will leave the company or not based on the given factors.
